@@ -7,7 +7,6 @@ sections:
     actions:
       - label: Learn More
         url: >-
-          )
           http://www.theregister.co.uk/2013/06/08/what_about_a_us_tech_boycott/page2.html
         style: primary
       - label: Contact Us
