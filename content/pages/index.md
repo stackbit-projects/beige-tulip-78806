@@ -9,7 +9,7 @@ sections:
         url: /features
         style: primary
       - label: Contact Us
-        url: /
+        url: /now-go-away
         style: secondary
     align: left
     image: images/hero.svg
