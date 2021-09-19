@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: encryptedmail.mx
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus
+    subtitle: 'is not open to big data scrubbing. Go away, nothing to see !'
     actions:
       - label: Learn More
         url: /features
