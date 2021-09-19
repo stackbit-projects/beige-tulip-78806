@@ -39,10 +39,9 @@ sections:
             url: /features
             style: secondary
       - title: No scrubbing
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          robot or no-robot.  We  don't allow any scrubbing.   We don't need any
+          new carpets, whine, 401Ks, car insurance or bitcoins.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
