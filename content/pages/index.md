@@ -41,7 +41,8 @@ sections:
       - title: No scrubbing
         content: >
           robot or no-robot.  We  don't allow any scrubbing.   We don't need any
-          new carpets, whine, 401Ks, car insurance or bitcoins.
+          new carpets, french wine, italian dishes, 401Ks, car insurance or
+          bitcoins.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
